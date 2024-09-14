@@ -1,0 +1,40 @@
+# Python
+__pycache__/
+*.py[cod]
+*.class
+
+# Virtual Environment
+venv/
+ENV/
+
+# Flask
+instance/
+.webassets-cache
+
+# SQLite database files
+*.db
+
+# Environment variables
+.env
+
+# IDE specific files
+.vscode/
+.idea/
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Log files
+*.log
+
+# Runtime data
+pids
+*.pid
+*.seed
+*.pid.lock
